@@ -55,9 +55,9 @@ I can expand each entry with specific PR or commit links, and include contributi
 ---
 
 ## 📫 Contact
-- Email: your-email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- Twitter: https://twitter.com/your-twitter
+- Email: your- anishkumar@quietcom.net
+- LinkedIn: https://www.linkedin.com/in/anishkumar840
+- Twitter: https://x.com/_im_anish
 
 ---
 
