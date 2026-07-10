@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building clean, user-
 - [Project Two](https://github.com/anish-840/project-two) — Short description: real-time features with WebSockets.
 - [Project Three](https://github.com/anish-840/project-three) — Short description: automated deployments and tests.
 
-(Replace the links above with your actual repositories.)
+
 
 ---
 
@@ -50,7 +50,7 @@ Below are projects where I contributed as an author or collaborator — these sh
 - [theme-musical-instruments](https://github.com/anish-840/theme-musical-instruments) — First commit and theme work.
 - [Bulk-Button](https://github.com/anish-840/Bulk-Button) — App UI/button logic updates.
 
-I can expand each entry with specific PR or commit links, and include contribution badges if you’d like.
+
 
 ---
 
